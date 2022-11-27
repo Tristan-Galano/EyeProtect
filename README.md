@@ -5,4 +5,4 @@ This Project will remind you to take care of your Eyes
 
 After working for 20 mins it will remind you to rest your eyes
 
-And remind you again if you can work angain on your computer.
+And remind you again if you can work again on your computer.
